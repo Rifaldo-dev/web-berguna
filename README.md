@@ -4,7 +4,8 @@ Koleksi link tools, library, dan resource yang bisa bikin project web kamu lebih
 Repo ini bisa jadi referensi saat ngoding atau bikin project baru.
 
 ---
-
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=web-berguna&left_color=black&right_color=blue)
+---
 ## 🎯 Animasi Cursor
 - **[Sweezy Cursors](https://sweezy-cursors.com/specials/animated-cursors/)**  
   Koleksi **cursor animasi** unik yang bisa langsung dipakai di web.
@@ -46,6 +47,8 @@ Repo ini bisa jadi referensi saat ngoding atau bikin project baru.
   Ilustrasi gratis dan bebas digunakan, bisa diubah warnanya.
 - **[Haikei](https://haikei.app/)**  
   Generator background SVG (gelombang, blob, pola abstrak).
+  - **[FreeSVGIcons](https://freesvgicons.com/)**
+     Koleksi ikon SVG gratis, bisa diunduh dan digunakan bebas. 
 
 ---
 
